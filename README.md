@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is Santiago Martínez
 
-### I am a motivated fullstack developer always willing to improve my skills 💻
+### I am a motivated frontend developer always willing to improve my skills 💻
 
 - 🌱 I’m currently learning **Vue.JS**
 - 💬 Ask me about **JavaScript, ReactJS, Redux and Mongo DB**
