@@ -2,8 +2,8 @@
 
 ### I am a motivated frontend developer always willing to improve my skills 💻
 
-- 🌱 I’m currently improving **ReactJS** and learning **VueJS and TypeScript**
-- 💬 Ask me about **JavaScript, ReactJS, Redux and Mongo DB**
+- 🌱 I’m currently improving **ReactJS and TypeScript**
+- 💬 Ask me about **JavaScript, ReactJS, NextJS**
 - 👨‍💻 All of my projects are available at https://github.com/SantiagoMC52
 - 📫 How to reach me: infohere52@gmail.com
 - ⚡ Fun fact about me is that **I like to solve Rubik's Cubes**
