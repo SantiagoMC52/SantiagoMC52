@@ -3,6 +3,7 @@
 ### I am a motivated frontend developer always willing to improve my skills 💻
 
 - 🌱 I’m currently improving **ReactJS and TypeScript** and **learning Angular**
+- 💻 Currently working in [Eurofirms Group](https://www.eurofirmsgroup.com)
 - 💬 Ask me about **JavaScript, ReactJS, NextJS**
 - 👨‍💻 All of my projects are available at https://github.com/SantiagoMC52
 - 📫 How to reach me: infohere52@gmail.com
