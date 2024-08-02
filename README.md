@@ -15,5 +15,5 @@
 [![Contact](https://skillicons.dev/icons?i=github)](https://github.com/SantiagoMC52)
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,express,figma,firebase,git,jest,materialui,mongodb,mysql,nextjs,nodejs,react,redux,styledcomponents,ts,vercel,vscode,astro,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,html,css,js,ts,express,figma,firebase,git,jest,materialui,mongodb,mysql,nextjs,nodejs,redux,styledcomponents,vercel,vscode,astro,tailwind)](https://skillicons.dev)
 
